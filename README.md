@@ -1,7 +1,7 @@
 retrowatch
 ==========
 
-Retro watch is open source smart watch project using Arduino and Android.
+Retro watch is smart watch project using Arduino and Android.
 
 ==========
 [How-To: How to Make a RetroWatch - Detailed Version](http://www.hardcopyworld.com/ngine/aduino/index.php/archives/376)
@@ -45,10 +45,6 @@ RetroWatch_Arduino
   
 
 ==========
-
-Do you want to post feedback, bugreport, suggestion or question? Use below links:
-
-[QnA: ](http://www.hardcopyworld.com/gnuboard5/bbs/board.php?bo_table=qna)
 
 Email : ghogharifd@gmail.com
 
